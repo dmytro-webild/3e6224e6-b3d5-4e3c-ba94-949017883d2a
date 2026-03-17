@@ -62,7 +62,7 @@ export default function LandingPage() {
             }
           ]}
           buttonAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg?_wi=1"
           imageAlt="Ascend Digital Co. Agency Workspace"
           showDimOverlay={true}
           ariaLabel="Hero section - Ascend Digital Co."
@@ -75,13 +75,13 @@ export default function LandingPage() {
           description=""
           features={[
             {
-              id: "ticker-1",              title: "Website Design",              description: "Professional websites that rank on Google",              tag: "Service",              imageSrc: "http://img.b2bpic.net/free-psd/travel-concept-web-template_23-2149181487.jpg",              imageAlt: "modern responsive website design mockup"
+              id: "ticker-1",              title: "Website Design",              description: "Professional websites that rank on Google",              tag: "Service",              imageSrc: "http://img.b2bpic.net/free-psd/travel-concept-web-template_23-2149181487.jpg?_wi=1",              imageAlt: "modern responsive website design mockup"
             },
             {
-              id: "ticker-2",              title: "AI Automation",              description: "24/7 booking systems and WhatsApp bots",              tag: "Service",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-shot-notebook-displaying-ai-machine-learning-algorithms_482257-122159.jpg",              imageAlt: "AI automation chatbot interface dashboard"
+              id: "ticker-2",              title: "AI Automation",              description: "24/7 booking systems and WhatsApp bots",              tag: "Service",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-shot-notebook-displaying-ai-machine-learning-algorithms_482257-122159.jpg?_wi=1",              imageAlt: "AI automation chatbot interface dashboard"
             },
             {
-              id: "ticker-3",              title: "Social Media",              description: "Consistent high-quality content strategy",              tag: "Service",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-keyboard-laptop_1156-42.jpg",              imageAlt: "social media content management platform"
+              id: "ticker-3",              title: "Social Media",              description: "Consistent high-quality content strategy",              tag: "Service",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-keyboard-laptop_1156-42.jpg?_wi=1",              imageAlt: "social media content management platform"
             }
           ]}
           textboxLayout="default"
@@ -116,7 +116,7 @@ export default function LandingPage() {
           textboxLayout="default"
           useInvertedBackground={true}
           imagePosition="right"
-          imageSrc="http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg?_wi=2"
           imageAlt="Ascend Digital Co. Team"
         />
       </div>
@@ -127,21 +127,21 @@ export default function LandingPage() {
           description="Complete digital solutions tailored for your business"
           features={[
             {
-              id: "service-1",              title: "Website Design",              description: "Professional websites that rank on Google, load fast, and turn visitors into customers. Built for clinics, schools, restaurants, and service businesses.",              tag: "Starting from PKR 35,000 / $300",              imageSrc: "http://img.b2bpic.net/free-psd/travel-concept-web-template_23-2149181487.jpg",              imageAlt: "modern responsive website design mockup",              buttons: [
+              id: "service-1",              title: "Website Design",              description: "Professional websites that rank on Google, load fast, and turn visitors into customers. Built for clinics, schools, restaurants, and service businesses.",              tag: "Starting from PKR 35,000 / $300",              imageSrc: "http://img.b2bpic.net/free-psd/travel-concept-web-template_23-2149181487.jpg?_wi=2",              imageAlt: "modern responsive website design mockup",              buttons: [
                 {
                   text: "Learn More"
                 }
               ]
             },
             {
-              id: "service-2",              title: "AI Automation",              description: "AI booking systems and WhatsApp bots that handle appointments, reminders, and customer queries 24/7 — so you never miss a lead while you're busy.",              tag: "Setup from PKR 40,000 / $400 + retainer",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-shot-notebook-displaying-ai-machine-learning-algorithms_482257-122159.jpg",              imageAlt: "AI automation chatbot interface dashboard",              buttons: [
+              id: "service-2",              title: "AI Automation",              description: "AI booking systems and WhatsApp bots that handle appointments, reminders, and customer queries 24/7 — so you never miss a lead while you're busy.",              tag: "Setup from PKR 40,000 / $400 + retainer",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-shot-notebook-displaying-ai-machine-learning-algorithms_482257-122159.jpg?_wi=2",              imageAlt: "AI automation chatbot interface dashboard",              buttons: [
                 {
                   text: "Learn More"
                 }
               ]
             },
             {
-              id: "service-3",              title: "Social Media Management",              description: "Consistent high-quality content on Instagram, Facebook, and TikTok. We handle everything — you focus on running your business.",              tag: "Starting from PKR 20,000 / $200 per month",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-keyboard-laptop_1156-42.jpg",              imageAlt: "social media content management platform",              buttons: [
+              id: "service-3",              title: "Social Media Management",              description: "Consistent high-quality content on Instagram, Facebook, and TikTok. We handle everything — you focus on running your business.",              tag: "Starting from PKR 20,000 / $200 per month",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-keyboard-laptop_1156-42.jpg?_wi=2",              imageAlt: "social media content management platform",              buttons: [
                 {
                   text: "Learn More"
                 }
@@ -160,16 +160,16 @@ export default function LandingPage() {
           description="Proven advantages that set us apart"
           features={[
             {
-              id: "why-1",              title: "One Team, Everything Handled",              description: "No juggling 3 separate vendors. Website, automation, and social media — all managed by one team that knows your business inside out.",              tag: "Integrated Approach",              imageSrc: "http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg",              imageAlt: "dark modern agency office workspace"
+              id: "why-1",              title: "One Team, Everything Handled",              description: "No juggling 3 separate vendors. Website, automation, and social media — all managed by one team that knows your business inside out.",              tag: "Integrated Approach",              imageSrc: "http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg?_wi=3",              imageAlt: "dark modern agency office workspace"
             },
             {
-              id: "why-2",              title: "AI-Powered, Human-Led",              description: "We use cutting-edge AI tools to deliver faster, smarter work — but every strategy is built and reviewed by a real human who understands your market.",              tag: "Smart Technology",              imageSrc: "http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg",              imageAlt: "dark modern agency office workspace"
+              id: "why-2",              title: "AI-Powered, Human-Led",              description: "We use cutting-edge AI tools to deliver faster, smarter work — but every strategy is built and reviewed by a real human who understands your market.",              tag: "Smart Technology",              imageSrc: "http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg?_wi=4",              imageAlt: "dark modern agency office workspace"
             },
             {
-              id: "why-3",              title: "Results First, Always",              description: "We don't charge for activity. We charge for outcomes. Every service we sell has a measurable impact on your bookings, traffic, or revenue.",              tag: "Performance Focused",              imageSrc: "http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg",              imageAlt: "dark modern agency office workspace"
+              id: "why-3",              title: "Results First, Always",              description: "We don't charge for activity. We charge for outcomes. Every service we sell has a measurable impact on your bookings, traffic, or revenue.",              tag: "Performance Focused",              imageSrc: "http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg?_wi=5",              imageAlt: "dark modern agency office workspace"
             },
             {
-              id: "why-4",              title: "Lahore Roots, Global Reach",              description: "We work with businesses in Lahore, USA, and UK. We understand local markets and international standards — and we deliver both.",              tag: "Multicultural Expertise",              imageSrc: "http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg",              imageAlt: "dark modern agency office workspace"
+              id: "why-4",              title: "Lahore Roots, Global Reach",              description: "We work with businesses in Lahore, USA, and UK. We understand local markets and international standards — and we deliver both.",              tag: "Multicultural Expertise",              imageSrc: "http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg?_wi=6",              imageAlt: "dark modern agency office workspace"
             }
           ]}
           textboxLayout="default"
@@ -223,7 +223,7 @@ export default function LandingPage() {
 
       <div id="footer" data-section="footer">
         <FooterMedia
-          imageSrc="http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/nice-business-desk-black-background_24972-1179.jpg?_wi=7"
           imageAlt="Ascend Digital Co. Footer Background"
           logoText="Ascend Digital Co."
           copyrightText="© 2026 Ascend Digital Co. All rights reserved."
